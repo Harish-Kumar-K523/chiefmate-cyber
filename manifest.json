@@ -1,0 +1,10 @@
+{
+    "name": "Pass-Gen",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action" :{
+        "default_popup": "password-gen.html",
+        "size" : 500,
+        "default_icon": "password.png"
+    }
+}
